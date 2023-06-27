@@ -3,8 +3,7 @@ library(tidyverse)
 setwd("~/Desktop/Mideo.lab2/Coevolution/Data sets/")
 
 i.list = c(1,2,3,4,5,6,7,8,9,10,11)
-i.list = c(9,10,11)
-i.list = c(54)
+
 stoch.df = data.frame()
 for (i in i.list){
   
